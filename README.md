@@ -16,7 +16,6 @@ I built this application from scratch with the following technologies:
 
 #### Front End
 - Vanilla JS
-- Fetch API
 - HTML
 - CSS
 
