@@ -60,4 +60,4 @@ These are obvious--click the "Add New Movie" and trash can buttons respectively.
 
 ## Future Implementation
 - Implement interaction with a movie database API like IMDB's in order to source validated movie data, rather than having users manually input their own.
-- Display flash messages for successful movie additions, edits, and deletions
+- Display additional flash messages for successful movie additions, edits, and deletions
