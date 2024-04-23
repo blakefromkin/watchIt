@@ -10,7 +10,6 @@ I built this application from scratch with the following technologies:
 - Express
 - Node.js
 - PostgreSQL
-- node-postgres package
 - Pug
 - bcrypt
 
